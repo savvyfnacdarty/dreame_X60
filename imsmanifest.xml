@@ -142,6 +142,10 @@
       <file href="video/poster.jpg"/>
       <file href="video/poster_application.jpg"/>
       <file href="video/poster_mise_sous_tension.jpg"/>
+      <file href="video/ouverture_aca.mp4"/>
+      <file href="video/ouverture_aca.jpg"/>
+      <file href="video/cloture_aca.mp4"/>
+      <file href="video/cloture_aca.jpg"/>
     </resource>
   </resources>
 </manifest>
